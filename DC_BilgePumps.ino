@@ -1,6 +1,6 @@
 // Using the Adafruit Motor shield library
 // Oumaima Lamaakel - (c) 2017
-// update
+// 
 
 #include <AFMotor.h>
 
