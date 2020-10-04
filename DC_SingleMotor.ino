@@ -19,7 +19,7 @@ void loop() {
   motor4.run(FORWARD);
   delay(3000);
   
-  //Backward motion -- could be changed by switching cables in the motor shield
+  //Backward motion -- could be changed by switching cables in the motor shield -
   motor4.run(BACKWARD);
   delay(3000);
 
