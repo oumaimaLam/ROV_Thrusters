@@ -6,3 +6,4 @@ Codes include:
   1- DC motors - Bilge pumps
   2- Brushless motors
   3- T100 by BlueRobotics
+  4- Stepper motors
